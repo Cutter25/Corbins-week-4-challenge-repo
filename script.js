@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Inside which HTML element do we put the JavaScript?",
+        question: "What tag do you use to link your JavaScript file to your main HTML file?",
         choices: ["a. <js>", "b. <javascript>", "c. <scripting>", "d. <script>"],
         answer: "d. <script>"
     },
@@ -15,12 +15,12 @@ const questions = [
         answer: "b. other arrays"
     },
     {
-        question: "Commonly used data types DO NOT include:",
+        question: "Which of the following is NOT a commonly used data type?",
         choices: ["a. strings", "b. booleans", "c. alerts", "d. numbers"],
         answer: "c. alerts"
     },
     {
-        question: "How do you create a function in JavaScript",
+        question: "What is the correct syntax to use in order to create a function in JavaScript?",
         choices: ["a. function = myFunction()", "b. function myFunction()", "c. function:myFunction()", "d. createMyFunction()"],
         answer: "b. function myFunction()"
     },
